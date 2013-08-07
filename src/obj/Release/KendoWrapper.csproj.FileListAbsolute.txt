@@ -1,0 +1,5 @@
+D:\Diplom\Project\WebHRM\WebHRM\Hrm\KendoWrapper\bin\Release\KendoWrapper.dll
+D:\Diplom\Project\WebHRM\WebHRM\Hrm\KendoWrapper\bin\Release\KendoWrapper.pdb
+D:\Diplom\Project\WebHRM\WebHRM\Hrm\KendoWrapper\obj\Release\KendoWrapper.csprojResolveAssemblyReference.cache
+D:\Diplom\Project\WebHRM\WebHRM\Hrm\KendoWrapper\obj\Release\KendoWrapper.dll
+D:\Diplom\Project\WebHRM\WebHRM\Hrm\KendoWrapper\obj\Release\KendoWrapper.pdb
